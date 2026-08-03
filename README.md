@@ -168,21 +168,17 @@ If historical meeting premium data is not provided, the model assigns equal prob
 
 ## Example Output
 
-For each user-defined scenario, the model produces:
+## Example Output
 
-- Scenario probability
+The model produces:
+
+- Scenario probabilities
 - Scenario-specific portfolio PnL
 - Probability-weighted expected portfolio PnL
 
-Example:
+### Sample Output
 
-| Scenario | Probability | Portfolio PnL |
-|----------|------------:|--------------:|
-| Hawkish | 42.3% | $18,450 |
-| Neutral | 37.8% | $4,120 |
-| Dovish | 19.9% | -$12,760 |
-
-**Expected Portfolio PnL = $6,973**
+![Example Output](figures/final-output-table.png)
 
 *Illustrative example only.*
 
