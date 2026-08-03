@@ -72,6 +72,12 @@ This framework provides an objective estimate of portfolio risk by combining his
 
 ---
 
+## Workflow Diagram
+
+![Project Workflow](figures/Workflow.png)
+
+---
+
 ## Features
 
 - Automatically maps STIR futures contracts to future central bank meetings using a contract-to-meeting impact matrix.
